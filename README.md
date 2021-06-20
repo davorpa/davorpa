@@ -26,7 +26,9 @@ It is a pleasure can share my solid knowledge in this topics with the great deve
 
 ## :chart_with_upwards_trend: My GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=davorpa&color=blue) <br />
+![Profile Views](https://komarev.com/ghpvc/?username=davorpa&color=blue) 
+[![CodeWars](https://www.codewars.com/users/davorpa/badges/micro)](https://www.codewars.com/users/davorpa)
+<br />
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davorpa&column=3&margin-w=15&margin-h=15&theme=darkhub) <br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davorpa&show_icons=true&include_all_commits=true&theme=github_dark&icon_color=7c858f) <br />
 <!--
@@ -79,8 +81,9 @@ It is a pleasure can share my solid knowledge in this topics with the great deve
 
 ## Connect With Me
 
-[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/20275480)
-[![Goodreads](https://img.shields.io/badge/-Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08)](http://www.goodreads.com/davorpa)
+[![Sololearn](https://img.shields.io/badge/Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/20275480)
+[![CodeWars](https://img.shields.io/badge/Codewars-303133?style=for-the-badge&logo=codewars&logoWidth=20&logoColor=c70039)](https://www.codewars.com/users/davorpa)
+[![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08)](http://www.goodreads.com/davorpa)
 
 :postbox: Contact Me On
 
