@@ -20,28 +20,36 @@ Here are some ideas to get you started:
 
 I am David, a passionate about programming and coding with headquarters in Spain. I have technical skills in frontend but either in backend. It's a difficult task to decide which of both are the most I like!
 
-Currently focusing on cleancode, software patterns, and learn algorithms or emergent languages. Also interested on privacy and web accesibility (WCAG - WAI-ARIA).
+Strong logic techskills on Java and Javascript programming languages. Currently focusing on cleancode, software patterns, and learn algorithms or emergent languages like Python and Go. Also interested on privacy and web accesibility (WCAG - WAI-ARIA).
 
 It is a pleasure can share my solid knowledge in this topics with the great developers community we are. So, don't be affraid about make me any question.
 
-## :chart_with_upwards_trend: My GitHub Stats
+## :chart_with_upwards_trend: Account Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=davorpa&color=blue) 
+[![Github Years Old](https://badges.pufler.dev/years/davorpa?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/davorpa)
+[![Github Visits](https://badges.pufler.dev/visits/davorpa/davorpa?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Visitors%20%20%20%20.&cacheSeconds=30)](https://github.com/davorpa)
+[![Github Profile Views](https://komarev.com/ghpvc/?username=davorpa&label=Profile%20views&color=blue&style=flat-square) ](https://github.com/davorpa)
 [![CodeWars](https://www.codewars.com/users/davorpa/badges/micro)](https://www.codewars.com/users/davorpa)
 <br />
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davorpa&column=3&margin-w=15&margin-h=15&theme=darkhub) <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davorpa&show_icons=true&include_all_commits=true&theme=github_dark&icon_color=7c858f) <br />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davorpa&theme=dracula&column=4&margin-w=15&margin-h=10&no-bg=false&no-frame=false)
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=davorpa&theme=dracula&count_private=true&include_all_commits=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)
+<br />
 <!--
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=davorpa&theme=github_dark&layout=compact) <br />
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=davorpa&theme=dracula&layout=compact&range=last_30_days&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)
+<br />
 -->
-![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davorpa&layout=compact&theme=github_dark) <br />
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=davorpa&theme=github) <br />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davorpa&theme=dark&hide_border=false) <br />
+![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davorpa&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)
+<br />
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=davorpa&theme=dracula&area=true&hide_border=false&bg_color=282a36&color=ff6e96&point=2ca5e0&locale=en)
+<br />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davorpa&theme=dracula&hide_border=false&=dracula&fire=2ca5e0&border=2ca5e0&sideLabels=2ca5e0&locale=en)
+<br />
 
-## Best Repositories
-[![Shell Utils](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=shell-utils&show_icons=true&theme=github_dark&icon_color=7c858f)](https://github.com/davorpa/shell-utils)
+## :star: Best Repositories
+[![Shell Utils](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=shell-utils&theme=dracula&show_owner=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)](https://github.com/davorpa/shell-utils)
 <!--
-[![Android Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=gpul-labs-android-scissors-game&show_icons=true&theme=github_dark&icon_color=7c858f)](https://github.com/davorpa/gpul-labs-android-scissors-game)
+[![Android Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=gpul-labs-android-scissors-game&theme=dracula&show_owner=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)](https://github.com/davorpa/gpul-labs-android-scissors-game)
 -->
 
 ## :hammer_and_wrench: Technologies & Tools
@@ -79,16 +87,16 @@ It is a pleasure can share my solid knowledge in this topics with the great deve
 ![OS](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoWidth=20&logoColor=white&labelColor=555555)
 ![OS](https://img.shields.io/badge/OS-Ubuntu%20Desktop-blue?style=for-the-badge&logo=ubuntu&logoWidth=20&logoColor=white&labelColor=555555)
 
-## Connect With Me
+## :postbox: Connect With Me
 
-[![Sololearn](https://img.shields.io/badge/Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/20275480)
+[![Sololearn](https://img.shields.io/badge/Sololearn-139ef1?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=ffc881&labelColor=139ef1)](https://www.sololearn.com/profile/20275480)
 [![CodeWars](https://img.shields.io/badge/Codewars-303133?style=for-the-badge&logo=codewars&logoWidth=20&logoColor=c70039)](https://www.codewars.com/users/davorpa)
 [![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08)](http://www.goodreads.com/davorpa)
 [![Discord](https://img.shields.io/badge/Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white)](http://discordapp.com/users/863159490186969089)
 
-:postbox: Contact Me On
+:mailbox_with_no_mail: Contact Me On
 
-[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=white)](https://www.sololearn.com/profile/20275480)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-139ef1?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=ffc881&labelColor=139ef1)](https://www.sololearn.com/profile/20275480)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white)](https://t.me/davorpatech)
 [![Discord](https://img.shields.io/badge/-Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white)](http://discordapp.com/users/863159490186969089)
 
