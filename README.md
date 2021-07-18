@@ -56,8 +56,8 @@ It is a pleasure can share my solid knowledge in this topics with the great deve
 
 ![SW](https://img.shields.io/badge/Software-Gimp-blue?style=for-the-badge&logo=gimp&logoWidth=20&logoColor=white&labelColor=555555)
 ![SW](https://img.shields.io/badge/Software-Inkskape-blue?style=for-the-badge&logo=inkscape&logoWidth=20&logoColor=white&labelColor=555555)
-![WT](https://img.shields.io/badge/Web%20Technology-CSS3-blue?style=for-the-badge&logo=css3&logoWidth=20&logoColor=white&labelColor=555555)
 ![WT](https://img.shields.io/badge/Web%20Technology-HTML5-blue?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white&labelColor=555555)
+![WT](https://img.shields.io/badge/Web%20Technology-CSS3-blue?style=for-the-badge&logo=css3&logoWidth=20&logoColor=white&labelColor=555555)
 ![WT](https://img.shields.io/badge/Web%20Technology-JavaScript-blue?style=for-the-badge&logo=javascript&logoWidth=20&logoColor=white&labelColor=555555)
 ![WT](https://img.shields.io/badge/Web%20Technology-jQuery-blue?style=for-the-badge&logo=jQuery&logoWidth=20&logoColor=white&labelColor=555555)
 ![FW](https://img.shields.io/badge/CSS%20Framework-Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoWidth=20&logoColor=white&labelColor=555555)
