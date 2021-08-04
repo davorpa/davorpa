@@ -24,6 +24,8 @@ Strong logic techskills on Java and Javascript programming languages. Currently 
 
 It is a pleasure can share my solid knowledge in this topics with the great developers community we are. So, don't be affraid about make me any question.
 
+PRs always welcome :hugs:.
+
 ## :chart_with_upwards_trend: Account Stats
 
 [![Github Years Old](https://badges.pufler.dev/years/davorpa?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/davorpa)
