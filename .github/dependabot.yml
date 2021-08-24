@@ -1,5 +1,5 @@
 # Github Dependabot. Config file
-# https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/configuration-options-for-dependency-updates
+# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 2
 updates:
@@ -14,7 +14,7 @@ updates:
       day: "sunday"
       time: "09:00"
       timezone: "Europe/Madrid"
-    # Specify labels for npm pull requests
+    # Specify labels for `gha` pull requests
     labels:
       - "github-actions"
       - "dependencies"
