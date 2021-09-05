@@ -26,7 +26,9 @@ An open-source enthusiast / mantainer: collaborate in FOOS projects improves lea
 
 It is a pleasure give back a solid knowledges in this topics with the great developers community we are. So, don't be affraid about make me any question.
 
-Learn. Code. Enjoy. Repeat :recycle::rocket:. Open-minded :wink:, PRs always welcome :hugs:.
+*Passion = Learn. Code. Enjoy. Repeat :recycle::rocket:*
+
+Open-minded :wink:, PRs / improvements always welcome :hugs:.
 
 ## :chart_with_upwards_trend: Account Stats
 
