@@ -26,7 +26,7 @@ An open-source enthusiast / mantainer: collaborate in FOOS projects improves lea
 
 It'd be a pleasure give back those solid knowledges on these topics with the great developers community we are. So, don't be affraid about make me any question.
 
-*Passion = Learn. Code. Enjoy. Repeat :recycle::rocket:*
+*Learn. Code. Enjoy. Repeat :recycle::rocket: Be passionate*
 
 Open-minded :wink:, PRs / improvements always welcome :hugs:.
 
