@@ -52,9 +52,9 @@ Open-minded :wink:, PRs / improvements always welcome :hugs:.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davorpa&theme=dracula&hide_border=false&=dracula&fire=2ca5e0&border=2ca5e0&sideLabels=2ca5e0&locale=en)
 <br />
 
+<!--
 ## :star: Best Repositories
 [![Shell Utils](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=shell-utils&theme=dracula&show_owner=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)](https://github.com/davorpa/shell-utils)
-<!--
 [![Android Scissors Game](https://github-readme-stats.vercel.app/api/pin/?username=davorpa&repo=gpul-labs-android-scissors-game&theme=dracula&show_owner=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)](https://github.com/davorpa/gpul-labs-android-scissors-game)
 -->
 
