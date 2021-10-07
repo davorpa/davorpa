@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 # Hello, Human ! :wave:
 
-I am David, a passionate about programming and coding with headquarters in Spain. He have technical skills in frontend but either in backend. It's a difficult task to him decide which of both are the most he likes!
+I am David, I'm passionate about programming and coding with headquarters in Spain. I have technical skills in <i>frontend</i> and <i>backend</i>. It's a difficult task to decide on which of them I like the most!
 
-Strong logic techskills on Java and Javascript programming languages, is currently focusing on cleancode, software patterns and, learn algorithms or emergent languages like Python and Go. Also interested on privacy, web accesibility (WCAG - WAI-ARIA) and software authoring attribution.
+Strong logic techskills on Java and Javascript programming languages, I am currently focusing on cleancode, software patterns and learning algorithms or emergent languages like Python and Go. Also interested in privacy, web accesibility (WCAG - WAI-ARIA) and software authoring attribution.
 
-An open-source enthusiast / mantainer: collaborate in FOOS projects improves learning a lot. He loves how knowledge sharing and collaboration flows through open-source.
+An open-source enthusiast / mantainer: collaborate in FOOS projects improves learning a lot. I love how knowledge sharing and collaboration flows through open-source.
 
-It'd be a pleasure give back those solid knowledges on these topics with the great developers community we are. So, don't be affraid about make any question.
+It'd be a pleasure to give back those solid knowledges on these topics with the great developers community we are. So don't be afraid to ask any question.
 
 *Learn. Code. Enjoy. Repeat :recycle::rocket: Be passionate*
 
