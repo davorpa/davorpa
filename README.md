@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello, Human ! :wave:
 
-I am David, a passionate about programming and coding with headquarters in Spain. He have technical skills in frontend but either in backend. It's a difficult task to him decide which of both are the most he likes!
+Here is David, a passionate about programming and coding with headquarters in Spain. He have technical skills in frontend but either in backend. It's a difficult task to him decide which of both sides are the most he likes!
 
 Strong logic techskills on Java and Javascript programming languages, is currently focusing on cleancode, software patterns and, learn algorithms or emergent languages like Python and Go. Also interested on privacy, web accesibility (WCAG - WAI-ARIA) and software authoring attribution.
 
