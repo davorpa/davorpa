@@ -24,7 +24,7 @@ Strong logic techskills on Java and Javascript programming languages, is current
 
 An open-source enthusiast / mantainer: collaborate in FOOS projects improves learning a lot. He loves how knowledge sharing and collaboration flows through open-source.
 
-It'd be a pleasure give back those solid knowledges on these topics with the great developers community we are. So, don't be affraid about make any question.
+It'd be a pleasure to give back the solid knowledges on these topics with the great developers community we are. Therefore, don't be afraid to ask something about.
 
 *Learn. Code. Enjoy. Repeat :recycle::rocket: Be passionate*
 
