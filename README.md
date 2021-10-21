@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Here is David, a passionate about programming and coding with headquarters in Spain. He has technical skills in _frontend_ and _backend_. It's a difficult task to him to decide on which of both sides are his favorite!
 
-Strong logic techskills on Java and Javascript programming languages, is currently focusing on cleancode, software patterns and, learn algorithms or emergent languages like Python and Go. Also interested on privacy, web accesibility (WCAG - WAI-ARIA) and software authoring attribution.
+With strong logical skills on programming languages like Java and Javascript, he is currently focusing on clean code, software patterns as well as continuing to delve into algorithms, new paradigms... Handle languages such as Python and Go are now his target. Privacy, web accessibility (WCAG - WAI-ARIA), and software authorship attribution are also areas of interest.
 
 An open-source enthusiast / mantainer: collaborate in FOOS projects improves learning a lot. He loves how knowledge sharing and collaboration flows through open-source.
 
