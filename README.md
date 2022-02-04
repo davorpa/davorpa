@@ -26,7 +26,11 @@ An open-source enthusiast / mantainer: collaborate in FOOS projects improves lea
 
 It'd be a pleasure to give back the solid knowledges on these topics with the great developers community we are. Therefore, don't be afraid to ask something about.
 
+<div align="center" markdown="1">
+
 *Learn. Code. Enjoy. Repeat :recycle::rocket: Be passionate*
+
+</div>
 
 Open-minded :wink:, PRs / improvements always welcome :hugs:.
 
