@@ -28,7 +28,8 @@ It'd be a pleasure to give back the solid knowledges on these topics with the gr
 
 <div align="center" markdown="1">
 
-*Learn. Code. Enjoy. Repeat :recycle::rocket: Be passionate*
+**_Learn. Code. Enjoy. Repeat :recycle::rocket:_**  
+*Be passionate*
 
 </div>
 
