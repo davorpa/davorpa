@@ -35,6 +35,16 @@ It'd be a pleasure to give back the solid knowledges on these topics with the gr
 
 Open-minded :wink:, PRs / improvements always welcome :hugs:.
 
+<div align="center" markdown="1">
+
+↙️⬅️↩️ [![My GPG Public keys](https://img.shields.io/badge/My%20GPG%20Public%20keys-blue?style=for-the-badge&labelColor=blue)](https://github.com/davorpa.gpg) ↪️➡️↘️
+
+```shell
+$ curl https://github.com/davorpa.gpg | gpg --import
+```
+
+</div>
+
 ## :chart_with_upwards_trend: Account Stats
 
 [![Github Years Old](https://badges.pufler.dev/years/davorpa?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/davorpa)
