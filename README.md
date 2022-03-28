@@ -108,14 +108,14 @@ $ curl https://github.com/davorpa.gpg | gpg --import
 ## :postbox: Connect With Me
 
 [![Sololearn](https://img.shields.io/badge/Sololearn-139ef1?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=ffc881&labelColor=028de0)](https://www.sololearn.com/profile/20275480)
-[![CodeWars](https://img.shields.io/badge/Codewars-303133?style=for-the-badge&logo=codewars&logoWidth=20&logoColor=c70039&labelColor=192022)](www.codewars.com/r/sN6LTQ)
-[![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08&labelColor=d8d4bc)](http://www.goodreads.com/davorpa)
-[![Discord](https://img.shields.io/badge/Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white&labelColor=5554c1)](http://discordapp.com/users/863159490186969089)
+[![CodeWars](https://img.shields.io/badge/Codewars-303133?style=for-the-badge&logo=codewars&logoWidth=20&logoColor=c70039&labelColor=192022)](https://www.codewars.com/r/sN6LTQ)
+[![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08&labelColor=d8d4bc)](https://www.goodreads.com/davorpa)
+[![Discord](https://img.shields.io/badge/Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white&labelColor=5554c1)](https://discordapp.com/users/863159490186969089)
 
 :mailbox_with_no_mail: Contact Me On
 
 [![Sololearn](https://img.shields.io/badge/-Sololearn-139ef1?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=ffc881&labelColor=028de0)](https://www.sololearn.com/profile/20275480)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white&labelColor=1b94c9)](https://t.me/davorpatech)
-[![Discord](https://img.shields.io/badge/-Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white&labelColor=5554c1)](http://discordapp.com/users/863159490186969089)
+[![Discord](https://img.shields.io/badge/-Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white&labelColor=5554c1)](https://discordapp.com/users/863159490186969089)
 
 **Note:- Sololearn only supports messenger on it's offical app**
