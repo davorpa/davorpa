@@ -37,7 +37,7 @@ Open-minded :wink:, PRs / improvements always welcome :hugs:.
 
 <div align="center" markdown="1">
 
-↙️⬅️↩️ [![My GPG Public keys](https://img.shields.io/badge/My%20GPG%20Public%20keys-blue?style=for-the-badge&labelColor=blue)](https://github.com/davorpa.gpg) ↪️➡️↘️
+↙️⬅️ [![My GPG Public keys](https://img.shields.io/badge/My%20GPG%20Public%20keys-blue?style=for-the-badge&labelColor=blue)](https://github.com/davorpa.gpg) ➡️↘️
 
 ```shell
 $ curl https://github.com/davorpa.gpg | gpg --import
